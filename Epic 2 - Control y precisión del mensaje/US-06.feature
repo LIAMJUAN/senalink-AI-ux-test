@@ -1,6 +1,6 @@
 Feature: US06 - Revisar y corregir el texto reconocido antes de enviarlo
   Como persona sorda usuaria de SeñaLink AI,
-  quiero revisar y corregir el texto reconocido antes de comunicarlo,
+  necesito revisar y corregir el texto reconocido antes de comunicarlo,
   para evitar malentendidos o mensajes incorrectos.
 
   Scenario: Escenario 1 - Revisión previa
